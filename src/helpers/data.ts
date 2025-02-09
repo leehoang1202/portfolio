@@ -6,110 +6,116 @@ import springMvcImg from 'assets/project/spring-mvc.png';
 import springRestImg from 'assets/project/spring-rest.png';
 
 export const APP_DATA = {
-    YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
-    TIKTOK_URL: "https://www.tiktok.com/@hoidanit",
-    UDEMY_URL: "https://www.udemy.com/user/eric-7039/",
-    FACEBOOK_URL: "https://www.facebook.com/askITwithERIC/"
+    YOUTUBE_URL: "https://www.youtube.com/@dichvuchupanhsanpham",
+    TIKTOK_URL: "https://www.tiktok.com/@mr.lee.an",
+    FACEBOOK_URL: "https://www.facebook.com/leehoang.1202an"
 }
 
 export const EXPERIENCES = [
     {
         id: 1,
         title: {
-            vi: "Lập Trình Viên",
-            en: "Fullstack Developer"
+            vi: "Vận Hành Studio Chụp Ảnh Sản Phẩm",
+            en: "Operate Product Phtography Studio"
         },
+
         company: {
-            vi: "Công ty ABCXYZ Ltd.",
-            en: "ABCXYZ Ltd."
+            vi: "Studio Chụp Ảnh Sản Phẩm Juva Media",
+            en: "Product Photography Juva Media"
         },
         duration: {
-            vi: "Jan 2024 - Hiện tại",
-            en: "Jan 2024 - Present"
+            vi: "Tháng 6/2023 - Present",
+            en: "Jun 2023 - Present"
         }
     },
     {
         id: 2,
         title: {
-            vi: "Lập Trình Viên",
-            en: "Fullstack Developer"
+            vi: "Quản Lý Dự Án",
+            en: "Project Manager"
         },
-
         company: {
-            vi: "Công ty F (freelancer)",
-            en: "F (freelancer)"
+            vi: "Công ty TNHH Aegona",
+            en: "Aegona Com.Ltd"
         },
         duration: {
-            vi: "Tháng 6/2022 - Tháng 1/2024",
-            en: "Jun 2022 - Jan 2024"
+            vi: "Tháng 2/2024 - Tháng 11/2024",
+            en: "Feb 2024 - Nov 2024"
         }
     },
     {
         id: 3,
         title: {
-            vi: "Dự án tự làm",
-            en: "Self Employed"
+            vi: "Kinh Doanh Online",
+            en: "E-Commerce Seller"
         },
         company: {
-            vi: "Học kiến thức mới mỗi ngày",
-            en: "Code and build something in everyday."
+            vi: "Tự kinh doanh trên Sàn TMĐT",
+            en: "Business on E-Com Platform"
         },
         duration: {
-            vi: "Tháng 1/2020 - Hiện tại",
-            en: "Jan 2020 - Present"
+            vi: "Tháng 10/2019 - Tháng 8/2023",
+            en: "Oct 2019 - Aug 2023"
+        }
+    },
+    {
+        id: 4,
+        title: {
+            vi: "Nhân Viên Kinh Doanh",
+            en: "Sale Executive"
+        },
+        company: {
+            vi: "Công ty TNHH Kim Hoa",
+            en: "Kim Hoa Com.Ltd"
+        },
+        duration: {
+            vi: "Tháng 4/2018 - Tháng 10/2019",
+            en: "Apr 2018 -  Oct 2019"
         }
     }
 ]
 
 export const PROJECTS = [
-    {
+      {
         id: 1,
         imgPath: reactNativeImg,
-        title: "React Native Basic",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html"
+        title: "Project Manager at Lady Maja",
+        description: "I operating Lady Maja project, this is business art online consist of sell Painting and Canvas Prints. I planing business, content, raise collaborate to artist.",
+        githubLink: "#!",
+        demoLink: "https://www.ladymaja.com/"
     },
     {
         id: 2,
         imgPath: springRestImg,
-        title: "Java Spring REST",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html"
+        title: "Operate Product Photography Studio",
+        description: "Operating in 2023, in the field of product photography for online shops. My main job is to find customers, operate staff to complete the work. Besides, building the Juva Media brand image on social networks such as Facebook, TikTok, website,... In addition, I also train staff and students on product photography.",
+        githubLink: "#!",
+        demoLink: "https://www.facebook.com/juvamedia"
     },
     {
         id: 3,
         imgPath: springMvcImg,
-        title: "Java Spring MVC",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html"
+        title: "Business Online on E-Commerce Platform",
+        description: "I started selling fashion products online on e-commerce platforms in 2018. With four years of experience, I have gradually built an online store from zero to a revenue of 800 million/month, then a mall store. Therefore, I know how to operate an online store effectively.",
+        githubLink: "#!",
+        demoLink: "https://shopee.vn/boteevn"
     },
     {
         id: 4,
         imgPath: nextjsImg,
-        title: "React ProMax with Next.js",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html"
+        title: "Sale Executive",
+        description: "I work in a distributor of fast-moving consumer goods for Nestle, my main job is to sell products at stores and markets in the assigned area. Ensuring monthly sales targets set by the company are achieved, with a year of working here has helped me gain a foundation in business and working with customers effectively.",
+        githubLink: "#!",
+        demoLink: "#!"
     },
     {
         id: 5,
         imgPath: nestImg,
-        title: "Nest.js Basic",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/nestjs-voi-typescript-mongodb-sieu-de-64686ec6fb456bbb90663dd6.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/nestjs-voi-typescript-mongodb-sieu-de-64686ec6fb456bbb90663dd6.html"
+        title: "Website Sell Canvas Print",
+        description: "This is a personal project to improve SEO skills and website design using wordpress. Help me develop skills related to online work, find customers from free traffic, reduce dependence on advertising on google. Build an SEO plan for the website and implement it in stages.",
+        githubLink: "#!",
+        demoLink: "https://tranhdongvang.com/"
     },
-    {
-        id: 6,
-        imgPath: reactUltimateImg,
-        title: "React Ultimate",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/react-ultimate-react-co-ban-tu-z-toi-a-640b50b96cc592d780aab976.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/react-ultimate-react-co-ban-tu-z-toi-a-640b50b96cc592d780aab976.html"
-    }
 ]
 
 export const SKILLS_DATA = [
@@ -118,21 +124,13 @@ export const SKILLS_DATA = [
     'Javascript',
     'Typescript',
     'React',
-    'Next JS',
     'Tailwind',
-    'MongoDB',
-    'MySQL',
-    'PostgreSQL',
     'Git',
-    'AWS',
-    'Bootstrap',
-    'Docker',
-    'Go',
-    'Figma',
-    'Firebase',
-    'MaterialUI',
-    'Nginx',
-    'Strapi'
+    'Photoshop',
+    'Microsoft Office',
+    'Premiere Pro',
+    'Lightroom',
+    'Wordpress',
   ]
   
   // Choose your skills from below. Make sure it's in the same format and spelled correctly.
