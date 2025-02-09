@@ -24,30 +24,29 @@ const Introduction = () => {
                     </h2>
                     <br />
                     <p>
-                        {t("I love working in business and solve problem.
-")}
+                        {t("introSection.heading1")}
                         <br />
-                        <br />{t("I graduated from")}
+                        <br />{t("introSection.heading2")}
                         <i>
-                            <b className='text-pink-100'> University of Economics Ho Chi Minh City.</b>
+                            <b className='text-pink-100'> Java {t("introSection.and")} Javascript. </b>
                         </i>
                         <br />
                         <br />
-                        {t("I have accumulated practical experience in the field of online business, including")} &nbsp;
+                        {t("introSection.heading3")} &nbsp;
                         <i>
                             <b className='text-pink-100'>
-                                {t("Sales Executive, Operating an e-commerce Platform, Business Development Manager and Project Manager.")}
+                                {t("introSection.heading4")}
                             </b>
                         </i>
                         <br />
                         <br />
-                        {t(" I am passionate about business and always looking for")}
-                        <i><b className='text-pink-100'>&nbsp;opportunities</b> </i>
+                        {t("introSection.heading5")}
+                        <i><b className='text-pink-100'>&nbsp;Java Spring</b> </i>
                         {t("introSection.and")}
                         <i>
                             <b className='text-pink-100'>
                                 {" "}
-                               to develop myself.
+                                Node.js
                             </b>
                         </i>
 
