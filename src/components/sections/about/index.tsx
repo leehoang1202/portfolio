@@ -14,38 +14,29 @@ const About = () => {
         <>
             <Row>
                 <Col md={6} xs={12}>
-                    <h3 className="text-center mb-md-5 mb-2">Let Me Introduce <span className="brand-red">Who I am</span> </h3>
+                    <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
                     <div>
                         <div>
-                            <p>  Hi Everyone, I am Dien An from Ho Chi Minh City, VietNam.</p>
+                            <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
 
-                            <p> I am currently manager at Juva Media (Product Photography
-                Studio).</p>
+                            <p> I am currently employed as a a freelance dev (start-up).</p>
 
-                            <p> I have over four years of experience operating online stores, so
-                I know how to set up the store from zero to high revenue.
-                Besides that, I have experience building brands for product
-                photography studios, as well as managing teams and controlling
-                various tasks. These tasks range from communicating with clients
-                to understanding their needs and completing their requests.</p>
+                            <p> I have completed Bachelor's degree in Software Engineer at Hanoi University of Science and Technology (HUST).</p>
                         </div>
                     </div>
                     <div>
-                        <p>Some achievements I have :
+                        <p>Apart from coding, some other activities that I love to do!
 
                         </p>
                         <ul>
-                            <li>Two stores online : a Shopee Mall and another store revenue 800
-                million per month</li>
-                            <li>Manage team members</li>
-                            <li>As a co-founder of a studio from zero, I know everything about
-                setting up an initial brand.</li>
+                            <li>Playing Games</li>
+                            <li>Writing Tech Blogs</li>
+                            <li>Travelling</li>
                         </ul>
                     </div>
                     <div>
-                        <p className="text-center brand-red">"Actually, the earth was plain with no roads to begin with, but as
-              more and more people walked over it, a road appeared."</p>
-                        <p className="text-center brand-red">-- Lu Xun --</p>
+                        <p className="text-center brand-red">"Pursuing Your Dreams Is How You Become Homeless ~.~"</p>
+                        <p className="text-center brand-red">--Jimmy O Yang</p>
                     </div>
                 </Col >
                 <Col md={6} xs={12} className="d-flex align-items-center justify-content-center">
@@ -74,15 +65,15 @@ const About = () => {
                                 <div className="p-3 relative">
                                     <div className="experience-container">
                                         <div className="duration-text">
-                                            <p>2015-2020</p>
+                                            <p>20xx-20xx</p>
                                         </div>
                                         <div className="details">
                                             <div className="icon">
                                                 <FaGraduationCap size={36} />
                                             </div>
                                             <div className="info">
-                                                <p className="title">Commercial Business</p>
-                                                <p className="company">University of Economics Ho Chi Minh City (UEH)</p>
+                                                <p className="title">Softwaren Engineer</p>
+                                                <p className="company">Hanoi University of Science and Technology (HUST)</p>
                                             </div>
                                         </div>
                                     </div>
@@ -101,6 +92,7 @@ const About = () => {
                         youtube={APP_DATA.YOUTUBE_URL}
                         facebook={APP_DATA.FACEBOOK_URL}
                         tiktok={APP_DATA.TIKTOK_URL}
+                        udemy={APP_DATA.UDEMY_URL}
                     />
                 </Col >
                 <Col md={6} xs={12} className="d-flex flex-column align-items-center justify-content-center">
