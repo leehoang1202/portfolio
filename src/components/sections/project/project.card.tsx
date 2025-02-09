@@ -26,7 +26,7 @@ function ProjectCard(props: IProps) {
                     <div>
                         <Button variant="primary" href={props.githubLink} target="_blank">
                             <BsGithub /> &nbsp;
-                            GitHub
+                            Website
                         </Button>
 
                         <Button
@@ -36,7 +36,7 @@ function ProjectCard(props: IProps) {
                             style={{ marginLeft: "10px" }}
                         >
                             <CgWebsite /> &nbsp;
-                            {"Demo"}
+                            {"Detail"}
                         </Button>
 
                     </div>
