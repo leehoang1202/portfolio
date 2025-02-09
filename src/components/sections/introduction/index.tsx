@@ -1,9 +1,8 @@
 import { Col, Row } from 'react-bootstrap';
 import Tilt from "react-parallax-tilt";
-// import avatarImg from "assets/avatar.svg";
+import avatarImg from "assets/avatar.svg";
 import './introduction.scss';
 import { useTranslation } from 'react-i18next';
-import avatarImg from "assets/avatar.png";
 
 const Introduction = () => {
     const { t, i18n } = useTranslation();
@@ -24,29 +23,29 @@ const Introduction = () => {
                     </h2>
                     <br />
                     <p>
-                        {t("introSection.heading1")}
+                        {t("I love working in business and with people.")}
                         <br />
-                        <br />{t("introSection.heading2")}
+                        <br />{t("I Graduated from")}
                         <i>
-                            <b className='text-pink-100'> Java {t("introSection.and")} Javascript. </b>
+                            <b className='text-pink-100'> University of Economics Ho Chi Minh City.</b>
                         </i>
                         <br />
                         <br />
-                        {t("introSection.heading3")} &nbsp;
+                        {t("I have accumulated practical experience in the field of online business, including")} &nbsp;
                         <i>
                             <b className='text-pink-100'>
-                                {t("introSection.heading4")}
+                                {t("Sales Executive, Operating an E-commerce Platform, a Photography Studio and Project Manager.")}
                             </b>
                         </i>
                         <br />
                         <br />
-                        {t("introSection.heading5")}
-                        <i><b className='text-pink-100'>&nbsp;Java Spring</b> </i>
+                        {t(" I am passionate about business and always looking for")}
+                        <i><b className='text-pink-100'>&nbsp;opportunities</b> </i>
                         {t("introSection.and")}
                         <i>
                             <b className='text-pink-100'>
                                 {" "}
-                                Node.js
+                                develop.
                             </b>
                         </i>
 
@@ -54,8 +53,7 @@ const Introduction = () => {
                 </Col>
                 <Col md={3} className='d-md-block d-none'>
                     <Tilt>
-                    <img src={avatarImg} className="img-fluid" alt="avatar" />
-                        {/* <img src={avatarImg} className="img-fluid" alt="avatar" /> */}
+                        <img src={avatarImg} className="img-fluid" alt="avatar" />
                     </Tilt>
                 </Col>
             </Row>
