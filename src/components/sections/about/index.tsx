@@ -14,29 +14,36 @@ const About = () => {
         <>
             <Row>
                 <Col md={6} xs={12}>
-                    <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
+                    <h3 className="text-center mb-md-5 mb-2">Let Me Introduce <span className="brand-red">Who I am</span> </h3>
                     <div>
                         <div>
-                            <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
+                            <p>  Hi Everyone, I am Dien An from Ho Chi Minh City, VietNam.</p>
 
-                            <p> I am currently employed as a a freelance dev (start-up).</p>
+                            <p> I am currently manager at Juva Media (Product Photography
+                Studio).</p>
 
-                            <p> I have completed Bachelor's degree in Software Engineer at Hanoi University of Science and Technology (HUST).</p>
+                            <p> I have over fours year operate store online, so I know how to
+                setup the store from zero to hight revenue. Beside that, I have
+                experiences build brand for product photography studio as manage
+                whole team members and control many task from communicate client
+                to unsderstanding what they need to complete their request.</p>
                         </div>
                     </div>
                     <div>
-                        <p>Apart from coding, some other activities that I love to do!
+                        <p>Some achievements I have :
 
                         </p>
                         <ul>
-                            <li>Playing Games</li>
-                            <li>Writing Tech Blogs</li>
-                            <li>Travelling</li>
+                            <li>2 store online : Shopee Mall and other revenue 800 million a
+                month</li>
+                            <li>Manage team members</li>
+                            <li>Co-founder Studio from zero, so I know about every I setup Brand
+                initial</li>
                         </ul>
                     </div>
                     <div>
-                        <p className="text-center brand-red">"Pursuing Your Dreams Is How You Become Homeless ~.~"</p>
-                        <p className="text-center brand-red">--Jimmy O Yang</p>
+                        <p className="text-center brand-red">"I loving study every by myself, it has me know about the root ~.~"</p>
+                        <p className="text-center brand-red">--Anonymous</p>
                     </div>
                 </Col >
                 <Col md={6} xs={12} className="d-flex align-items-center justify-content-center">
@@ -65,15 +72,15 @@ const About = () => {
                                 <div className="p-3 relative">
                                     <div className="experience-container">
                                         <div className="duration-text">
-                                            <p>20xx-20xx</p>
+                                            <p>2015-2020</p>
                                         </div>
                                         <div className="details">
                                             <div className="icon">
                                                 <FaGraduationCap size={36} />
                                             </div>
                                             <div className="info">
-                                                <p className="title">Softwaren Engineer</p>
-                                                <p className="company">Hanoi University of Science and Technology (HUST)</p>
+                                                <p className="title">Commercial Business</p>
+                                                <p className="company">University of Economics Ho Chi Minh City (UEH)</p>
                                             </div>
                                         </div>
                                     </div>
@@ -92,7 +99,6 @@ const About = () => {
                         youtube={APP_DATA.YOUTUBE_URL}
                         facebook={APP_DATA.FACEBOOK_URL}
                         tiktok={APP_DATA.TIKTOK_URL}
-                        udemy={APP_DATA.UDEMY_URL}
                     />
                 </Col >
                 <Col md={6} xs={12} className="d-flex flex-column align-items-center justify-content-center">
