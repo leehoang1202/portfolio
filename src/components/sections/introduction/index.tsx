@@ -24,9 +24,10 @@ const Introduction = () => {
                     </h2>
                     <br />
                     <p>
-                        {t("I love working in business and with people.")}
+                        {t("I love working in business and solve problem.
+")}
                         <br />
-                        <br />{t("I Graduated from")}
+                        <br />{t("I graduated from")}
                         <i>
                             <b className='text-pink-100'> University of Economics Ho Chi Minh City.</b>
                         </i>
@@ -35,7 +36,7 @@ const Introduction = () => {
                         {t("I have accumulated practical experience in the field of online business, including")} &nbsp;
                         <i>
                             <b className='text-pink-100'>
-                                {t("Sales Executive, Operating an E-commerce Platform, a Photography Studio and Project Manager.")}
+                                {t("Sales Executive, Operating an e-commerce Platform, Business Development Manager and Project Manager.")}
                             </b>
                         </i>
                         <br />
@@ -46,7 +47,7 @@ const Introduction = () => {
                         <i>
                             <b className='text-pink-100'>
                                 {" "}
-                                develop.
+                               to develop myself.
                             </b>
                         </i>
 
