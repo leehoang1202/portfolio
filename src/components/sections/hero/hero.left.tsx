@@ -31,15 +31,14 @@ const HeroLeft = (props: IProps) => {
             </h3>
             <h3 style={{ paddingTop: 10, paddingBottom: 5 }}>
                 I'M &nbsp;
-                <strong className="brand-red">{t("appHeader.brand")}</strong>
+                <strong className="brand-red">{t("Dien An")}</strong>
             </h3>
             <Typewriter
                 options={{
                     strings: [
-                        "Software Developer",
-                        "Freelancer",
-                        "MERN Stack Developer",
-                        "Open Source Contributor",
+                        "Project Manager",
+                        "Operator Lead",
+                        "E-commerce Executive",
                     ],
                     autoStart: true,
                     loop: true,
