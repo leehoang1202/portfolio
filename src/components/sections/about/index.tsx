@@ -44,7 +44,7 @@ const About = () => {
                     </div>
                     <div>
                         <p className="text-center brand-red">"Actually, the earth was plain with no roads to begin with, but as
-              more and more people walked over it, a road appeared ~.~"</p>
+              more and more people walked over it, a road appeared."</p>
                         <p className="text-center brand-red">-- Lu Xun --</p>
                     </div>
                 </Col >
