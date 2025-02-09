@@ -22,11 +22,12 @@ const About = () => {
                             <p> I am currently manager at Juva Media (Product Photography
                 Studio).</p>
 
-                            <p> I have over fours year operate store online, so I know how to
-                setup the store from zero to hight revenue. Beside that, I have
-                experiences build brand for product photography studio as manage
-                whole team members and control many task from communicate client
-                to unsderstanding what they need to complete their request.</p>
+                            <p> I have over four years of experience operating online stores, so
+                I know how to set up the store from zero to high revenue.
+                Besides that, I have experience building brands for product
+                photography studios, as well as managing teams and controlling
+                various tasks. These tasks range from communicating with clients
+                to understanding their needs and completing their requests.</p>
                         </div>
                     </div>
                     <div>
@@ -34,16 +35,17 @@ const About = () => {
 
                         </p>
                         <ul>
-                            <li>2 store online : Shopee Mall and other revenue 800 million a
-                month</li>
+                            <li>Two stores online : a Shopee Mall and another store revenue 800
+                million per month</li>
                             <li>Manage team members</li>
-                            <li>Co-founder Studio from zero, so I know about every I setup Brand
-                initial</li>
+                            <li>As a co-founder of a studio from zero, I know everything about
+                setting up an initial brand.</li>
                         </ul>
                     </div>
                     <div>
-                        <p className="text-center brand-red">"I loving study every by myself, it has me know about the root ~.~"</p>
-                        <p className="text-center brand-red">--Anonymous</p>
+                        <p className="text-center brand-red">"Actually, the earth was plain with no roads to begin with, but as
+              more and more people walked over it, a road appeared ~.~"</p>
+                        <p className="text-center brand-red">-- Lu Xun --</p>
                     </div>
                 </Col >
                 <Col md={6} xs={12} className="d-flex align-items-center justify-content-center">
