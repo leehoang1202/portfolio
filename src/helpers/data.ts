@@ -88,7 +88,7 @@ export const PROJECTS = [
         id: 2,
         imgPath: springRestImg,
         title: "Operate Product Photography Studio",
-        description: "Operating in 2023, in the field of product photography for online shops. My main job is to find customers, operate staff to complete the work. Besides, building the Juva Media brand image on social networks such as Facebook, TikTok, website,... In addition, I also train staff and students on product photography.",
+        description: "Operating since 2023, in the field of product photography for online shops. My main job is to find customers, manage staff to complete project. Besides that, I'm building the Juva Media brand image on social networks such as Facebook, TikTok, our website,... In addition, I also provide product photography training to staff and students.",
         githubLink: "#!",
         demoLink: "https://www.facebook.com/juvamedia"
     },
@@ -96,7 +96,7 @@ export const PROJECTS = [
         id: 3,
         imgPath: springMvcImg,
         title: "Business Online on E-Commerce Platform",
-        description: "I started selling fashion products online on e-commerce platforms in 2018. With four years of experience, I have gradually built an online store from zero to a revenue of 800 million/month, then a mall store. Therefore, I know how to operate an online store effectively.",
+        description: "Over four years, I gradually built an online store from the ground up, achieving a monthly revenue of 800 million VND.  Following that success, I also established a mall store. Therefore, I know how to operate an online store effectively.",
         githubLink: "#!",
         demoLink: "https://shopee.vn/boteevn"
     },
