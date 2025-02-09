@@ -80,8 +80,8 @@ const About = () => {
                                                 <FaGraduationCap size={36} />
                                             </div>
                                             <div className="info">
-                                                <p className="title">Softwaren Engineer</p>
-                                                <p className="company">Hanoi University of Science and Technology (HUST)</p>
+                                                <p className="title">Commercial Business</p>
+                                                <p className="company">University of Economics Ho Chi Minh City (UEH)</p>
                                             </div>
                                         </div>
                                     </div>
