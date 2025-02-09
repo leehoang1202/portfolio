@@ -17,26 +17,34 @@ const About = () => {
                     <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
                     <div>
                         <div>
-                            <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
+                            <p> Hi everyone, I am Dien An from Ho Chi Minh City, Vietnam.</p>
 
-                            <p> I am currently employed as a a freelance dev (start-up).</p>
+                            <p>  I am currently manager at Juva Media (Product Photography
+                Studio).</p>
 
-                            <p> I have completed Bachelor's degree in Software Engineer at Hanoi University of Science and Technology (HUST).</p>
+                            <p> I have over four years of experience operating online stores, so
+                I know how to set up the store from zero to high revenue.
+                Besides that, I have experience building brands for product
+                photography studios, as well as managing teams and controlling
+                various tasks. These tasks range from communicating with clients
+                to understanding their needs and completing their requests.</p>
                         </div>
                     </div>
                     <div>
-                        <p>Apart from coding, some other activities that I love to do!
+                        <p> Some achievements I have :
 
                         </p>
                         <ul>
-                            <li>Playing Games</li>
-                            <li>Writing Tech Blogs</li>
-                            <li>Travelling</li>
+                            <li>Two stores online : a Shopee Mall and another store revenue 800
+                million per month</li>
+                            <li>As a co-founder of a studio from zero, I know everything about
+                setting up an initial brand.</li>
                         </ul>
                     </div>
                     <div>
-                        <p className="text-center brand-red">"Pursuing Your Dreams Is How You Become Homeless ~.~"</p>
-                        <p className="text-center brand-red">--Jimmy O Yang</p>
+                        <p className="text-center brand-red">"Actually, the earth was plain with no roads to begin with, but as
+              more and more people walked over it, a road appeared ~.~"</p>
+                        <p className="text-center brand-red">-- Lu Xun --</p>
                     </div>
                 </Col >
                 <Col md={6} xs={12} className="d-flex align-items-center justify-content-center">
