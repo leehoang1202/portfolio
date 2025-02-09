@@ -40,7 +40,7 @@ function AppHeader() {
             <Container>
                 <Link className="navbar-brand" to="/">
                     <span className='brand-green'>
-                        {t("appHeader.brand")}
+                        {t("Dien An")}
                     </span>
                 </Link>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
